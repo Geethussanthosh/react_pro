@@ -1,14 +1,16 @@
 {
   "files": {
     "main.css": "/Geethussanthosh/react_pro.git/static/css/main.5c989ce7.css",
-    "main.js": "/Geethussanthosh/react_pro.git/static/js/main.5dc03622.js",
+    "main.js": "/Geethussanthosh/react_pro.git/static/js/main.9edcc013.js",
+    "static/js/488.70c4c776.chunk.js": "/Geethussanthosh/react_pro.git/static/js/488.70c4c776.chunk.js",
     "index.html": "/Geethussanthosh/react_pro.git/index.html",
     "static/media/search.svg": "/Geethussanthosh/react_pro.git/static/media/search.54b953955b7591bc5b7ff60ba09bc12f.svg",
     "main.5c989ce7.css.map": "/Geethussanthosh/react_pro.git/static/css/main.5c989ce7.css.map",
-    "main.5dc03622.js.map": "/Geethussanthosh/react_pro.git/static/js/main.5dc03622.js.map"
+    "main.9edcc013.js.map": "/Geethussanthosh/react_pro.git/static/js/main.9edcc013.js.map",
+    "488.70c4c776.chunk.js.map": "/Geethussanthosh/react_pro.git/static/js/488.70c4c776.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.5c989ce7.css",
-    "static/js/main.5dc03622.js"
+    "static/js/main.9edcc013.js"
   ]
 }
